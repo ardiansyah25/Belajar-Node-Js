@@ -1,0 +1,16 @@
+{
+  "name": "belajarnodejs",
+  "version": "1.0.0",
+  "description": "Belajar Node Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "echo \"Hello World!\"",
+    "server": "node index.js"
+  },
+  "author": "Ardiansyah",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
